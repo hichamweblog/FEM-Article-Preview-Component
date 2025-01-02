@@ -24,8 +24,8 @@ This project is a solution to the Frontend Mentor - Article Preview Component ch
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/responsive-article-preview-component-html-css-js)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/article-preview-component-DV4NIutT-k)
+- [Live Site URL](https://dz-article-preview.netlify.app/)
 
 ### Built With
 
